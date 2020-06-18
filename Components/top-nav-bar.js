@@ -16,13 +16,7 @@ Vue.component('top-nav-bar', {
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                <a class="nav-link" href="#">Useless Link</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="#">Another Useless Link</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="#">Useful Link (jk)</a>
+                <a class="nav-link" href="#">Thermistor Testing</a>
                 </li>
             </ul>
             </div>
